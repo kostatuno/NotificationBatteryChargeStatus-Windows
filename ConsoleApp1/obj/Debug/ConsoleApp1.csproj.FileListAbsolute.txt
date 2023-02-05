@@ -1,0 +1,8 @@
+D:\PROJECTS_IN_WORK\NotificationBatteryChargeStatus-Windows-\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\PROJECTS_IN_WORK\NotificationBatteryChargeStatus-Windows-\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\PROJECTS_IN_WORK\NotificationBatteryChargeStatus-Windows-\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\PROJECTS_IN_WORK\NotificationBatteryChargeStatus-Windows-\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\PROJECTS_IN_WORK\NotificationBatteryChargeStatus-Windows-\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\PROJECTS_IN_WORK\NotificationBatteryChargeStatus-Windows-\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\PROJECTS_IN_WORK\NotificationBatteryChargeStatus-Windows-\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\PROJECTS_IN_WORK\NotificationBatteryChargeStatus-Windows-\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

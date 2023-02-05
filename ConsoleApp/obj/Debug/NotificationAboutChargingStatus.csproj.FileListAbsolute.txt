@@ -1,0 +1,8 @@
+D:\PROJECTS_IN_WORK\NotificationDisabledChargingBattery\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\PROJECTS_IN_WORK\NotificationDisabledChargingBattery\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\PROJECTS_IN_WORK\NotificationDisabledChargingBattery\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\PROJECTS_IN_WORK\NotificationDisabledChargingBattery\ConsoleApp2\obj\Debug\NotificationAboutChargingStatus.csproj.AssemblyReference.cache
+D:\PROJECTS_IN_WORK\NotificationDisabledChargingBattery\ConsoleApp2\obj\Debug\NotificationAboutChargingStatus.csproj.SuggestedBindingRedirects.cache
+D:\PROJECTS_IN_WORK\NotificationDisabledChargingBattery\ConsoleApp2\obj\Debug\NotificationAboutChargingStatus.csproj.CoreCompileInputs.cache
+D:\PROJECTS_IN_WORK\NotificationDisabledChargingBattery\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\PROJECTS_IN_WORK\NotificationDisabledChargingBattery\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
